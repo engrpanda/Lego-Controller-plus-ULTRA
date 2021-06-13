@@ -30,7 +30,6 @@ APK: https://github.com/engrpanda/Lego-Controller-plus-ULTRA/releases
 
 resources:
 
-http://iot.appinventor.mit.edu/assets/howtos/MIT_App_Inventor_EV3_ButtonControl.pdf
 
 https://www.depts.ttu.edu/coe/stem/gear/ev3/documents/Ev3-Brick-Details.pdf
 
