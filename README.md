@@ -9,6 +9,7 @@ APK: https://github.com/engrpanda/Lego-Controller-plus-ULTRA/releases
 
 ![screen1](https://github.com/engrpanda/Lego-Controller-plus-ULTRA/blob/main/pics/3.jpg)
 
+![screen1](https://github.com/engrpanda/Lego-Controller-plus-ULTRA/blob/main/pics/0.jpg)
 
 ![screen1](https://github.com/engrpanda/Lego-Controller-plus-ULTRA/blob/main/pics/4.jpg)
 
