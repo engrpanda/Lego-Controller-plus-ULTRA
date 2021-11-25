@@ -1,7 +1,9 @@
 # Lego-Controller-plus-ULTRA
 Lego Controller plus ULTRA
 
-APK: https://github.com/engrpanda/Lego-Controller-plus-ULTRA/releases
+APK File: 
+
+https://github.com/engrpanda/Lego-Controller-plus-ULTRA/releases
 
 
 ![screen1](https://github.com/engrpanda/Lego-Controller-plus-ULTRA/blob/main/pics/1.jpg)
@@ -28,17 +30,25 @@ You can use thirdpaty IPCAM. Available in play store
 
 
 This android app makes you control your LEGO EV3 or NXT controller. 
+
 No need to Program, just open the Bluetooth of controller and connect.
 
 *GAMEPAD MODE (can pick from normal button or joystick):
+
 -4 Normal arrow button
+
 -Analog joytick button
+
 -Adjust Speed
+
 -IP Camera Viewer
+
 -Buttons can be Hold and release.
 
 4 Motor Port can be use. 
+
 PORT A and B are use for Arrow, Joystick control
+
 PORT C and D are use for circle, square, eks, triangle.
 
 
